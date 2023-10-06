@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me
 I am a Computer Science Engineering Student specialising in Systems Engineering at Budapest University of Technology and Economics currently in my 5th semester.
 
 # Tech stack I am familiar with
