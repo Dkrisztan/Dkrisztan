@@ -3,15 +3,16 @@ I am a Computer Science Engineering Student specialising in Systems Engineering 
 
 # Tech stack I am familiar with
 <div>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" width="30px" height="30px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="30px" height="30px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" width="30px" height="30px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/prisma.svg" width="30px" height="30px">
 </div>
 
 #  GitHub Stats:
