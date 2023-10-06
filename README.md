@@ -2,7 +2,7 @@
 I am a Computer Science Engineering Student specialising in Systems Engineering at Budapest University of Technology and Economics currently in my 5th semester.
 
 # Tech stack I am familiar with
-![](https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg)
+![](https://github.com/get-icon/geticon/blob/master/icons/typescript.svg)
 
 #  GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkrisztan&theme=rose_pine#gh-dark-mode-only)
