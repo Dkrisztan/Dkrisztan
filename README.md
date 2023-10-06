@@ -15,8 +15,7 @@ I am a Computer Science Engineering Student specialising in Systems Engineering 
 </div>
 
 #  GitHub Stats:
-<div class="image-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkrisztan&show_icons=true&hide_border=true&theme=rose_pine#gh-dark-mode-only" style="max-width: 50%; object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkrisztan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,ejs,dockerfile,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&hide_border=true&theme=rose_pine#gh-dark-mode-only" style="max-width: 50%; object-fit: contain;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkrisztan&theme=rose_pine#gh-dark-mode-only" >
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=dkrisztan&show_icons=true&hide_border=true&theme=rose_pine#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkrisztan&theme=rose_pine#gh-dark-mode-only">
 </div>
