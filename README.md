@@ -11,6 +11,6 @@ I am a Computer Science Engineering Student at BUTE
 ![Kotlin](https://img.shields.io/badge/kotlin-A27DF7?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #  GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afkfish&theme=dark#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=afkfish&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)\
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afkfish&langs_count=10&exclude_repo=&hide=jupyter%20notebook,ejs,dockerfile,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkrisztan&theme=rose_pine#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=dkrisztan&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)\
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrisztan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,ejs,dockerfile,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)
