@@ -14,8 +14,6 @@ I am a Computer Science Engineering Student specialising in Systems Engineering 
   <img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" width="30px" height="30px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/prisma.svg" width="30px" height="30px">
 </div>
-
-#  GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=dkrisztan&show_icons=true&hide_border=true&theme=rose_pine#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkrisztan&theme=rose_pine#gh-dark-mode-only">
