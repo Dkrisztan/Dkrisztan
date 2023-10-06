@@ -1,12 +1,8 @@
 #  About Me:
-I am a Computer Science Engineering Student at BUTE
+I am a Computer Science Engineering Student specialising in Systems Engineering at Budapest University of Technology and Economics currently in my 5th semester.
 
-#  Tech Stack:
-![python](https://img.shields.io/badge/python-4571A1?style=for-the-badge&logo=python&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-3F8424?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-E1587E?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-A7752F?style=for-the-badge&logo=java&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-A27DF7?style=for-the-badge&logo=kotlin&logoColor=white)
+# Tech stack I am familiar with
+![](https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg)
 
 #  GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkrisztan&theme=rose_pine#gh-dark-mode-only)
