@@ -1,5 +1,5 @@
 #  About Me
-I am a Computer Science Engineering Student specialising in Systems Engineering at Budapest University of Technology and Economics currently in my 5th semester.
+I am a Computer Science Engineering Student specialising in Systems Engineering at Budapest University of Technology and Economics currently in my 6th semester.
 
 # Tech stack I am familiar with
 <div>
